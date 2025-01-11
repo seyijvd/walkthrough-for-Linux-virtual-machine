@@ -30,7 +30,9 @@ Please allocate <strong>1024 MB<strong> and select “Next”.
 <img src="VB4.webp">
  
 The next step is to create a virtual hard disk for your VM which is where files and programs will be saved when operating your VM. Please select “Create a virtual hard disk now” and then click the “Create” button.
- 
+
+
+<img src="VB5.webp">
 You will then be prompted to select the type of hard disk file. Select “VDI (VirtualBox Disk Image)” and click on “Next”.
  
 Select whether the new virtual disk should be of a “fixed size” or dynamically allocate space as it fills up. Select “Dynamically allocated” and click “Next”.
