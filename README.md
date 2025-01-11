@@ -53,7 +53,9 @@ VirtualBox will bring you back to the main screen where you can see your newly c
 Ubuntu
 Download Ubuntu
 In order to install an OS to a VM you will need to install the OS just like you would on a regular computer. You’ll need to download a copy of the installation.
-The latest version LTS version of Ubuntu (as of early 2022) can be downloaded for free here.
+
+
+<img src="VB9.webp">
  
 Installing the OS
 Now you should have everything ready to install Ubuntu. From the VirtualBox Manager screen, double click the VM you created on the left and a prompt will appear asking to select the start-up disk. Use the dropdown menu to select the Ubuntu image that you downloaded in the previous step and click “Start” to boot the VM.
