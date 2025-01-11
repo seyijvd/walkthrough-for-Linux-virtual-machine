@@ -57,7 +57,7 @@ In order to install an OS to a VM you will need to install the OS just like you 
 
 <img src="VB9.webp">
  
-Installing the OS
+<h2>Installing the OS</h2>
 Now you should have everything ready to install Ubuntu. From the VirtualBox Manager screen, double click the VM you created on the left and a prompt will appear asking to select the start-up disk. Use the dropdown menu to select the Ubuntu image that you downloaded in the previous step and click “Start” to boot the VM.
  
 VirtualBox will open a new window where you can see the display for your VM! From this point on, all these instructions take place in the VirtualBox window loading Ubuntu.
