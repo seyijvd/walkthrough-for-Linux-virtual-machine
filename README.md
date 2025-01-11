@@ -18,7 +18,9 @@ Once VirtualBox is installed on your machine, start the program and you should s
 <img src="VB2.webp"> 
 In this screen you will see options to create and add VMs to VirtualBox, as well as any VMs you have previously created.
 Select the “New” button to create a new VM. The prompt will ask for a name for the VM, a file path for where to save the VM files. There are options for the “type” of OS you would like to install on your VM, such as Windows, macOS, or Linux. It will also ask for the “version” of the OS you will install, such as Ubuntu or Debian.
-For this tutorial please select Linux for the “Type”, Ubuntu (64-bit) for the “Version”, and select “Next”.
+Please select Linux for the “Type”, Ubuntu (64-bit) for the “Version”, and select “Next”.
+
+<img src="VB3.webp">
  
 The following screen will ask to select the memory size to allocate for your machine. This will set aside a certain amount of RAM on your host machine to be used for your VM when it is running.
 Please allocate 1024 MB and select “Next”.
