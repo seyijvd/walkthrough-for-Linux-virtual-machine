@@ -9,8 +9,8 @@ To install VirtualBox, first, go to the download page on the VirtualBox website.
 
 <img src="VB!.webp"> 
 Once the package is installed, install VirtualBox as you would typically install a program. Feel free to use the default installation options.
-Create a VM
-Provisioning a machine
+<h1>Create a VM</h1>
+<h2>Provisioning a machine</h2>
 Once VirtualBox is installed on your machine, start the program and you should see the VirtualBox Manager window open.
 
 
