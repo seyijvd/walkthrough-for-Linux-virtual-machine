@@ -23,7 +23,11 @@ Please select Linux for the “Type”, Ubuntu (64-bit) for the “Version”, a
 <img src="VB3.webp">
  
 The following screen will ask to select the memory size to allocate for your machine. This will set aside a certain amount of RAM on your host machine to be used for your VM when it is running.
-Please allocate 1024 MB and select “Next”.
+Please allocate <strong>1024 MB<strong> and select “Next”.
+
+
+
+<img src="VB4.webp">
  
 The next step is to create a virtual hard disk for your VM which is where files and programs will be saved when operating your VM. Please select “Create a virtual hard disk now” and then click the “Create” button.
  
