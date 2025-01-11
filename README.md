@@ -44,6 +44,10 @@ Select whether the new virtual disk should be of a “fixed size” or dynamical
 <img src="VB7.webp">
  
 Then set the maximum size for the disk to store file data, and then click “Create” to finish provisioning the VM.
+
+
+
+<img src="VB8.webp">
  
 VirtualBox will bring you back to the main screen where you can see your newly created VM.
 Ubuntu
