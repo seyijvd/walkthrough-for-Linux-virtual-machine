@@ -4,7 +4,10 @@
 VirtualBox is an open-source hypervisor that is developed by Oracle. It is similar to an emulator that creates and runs VMs where we can install different OSs without having to tinker with our disk partitions or worrying about impacting our primary OS. Instead, we run a different OS like Ubuntu as if it were another program running on our computer.
 Installing VirtualBox
 To install VirtualBox, first, go to the download page on the VirtualBox website. Select and download the correct package for your primary OS (the host OS, in virtualization terminology).
- 
+
+
+
+<img src="VB!.webp"> 
 Once the package is installed, install VirtualBox as you would typically install a program. Feel free to use the default installation options.
 Create a VM
 Provisioning a machine
