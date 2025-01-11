@@ -34,8 +34,14 @@ The next step is to create a virtual hard disk for your VM which is where files 
 
 <img src="VB5.webp">
 You will then be prompted to select the type of hard disk file. Select “VDI (VirtualBox Disk Image)” and click on “Next”.
+
+
+<img src="VB6.webp">
  
 Select whether the new virtual disk should be of a “fixed size” or dynamically allocate space as it fills up. Select “Dynamically allocated” and click “Next”.
+
+
+<img src="VB7.webp">
  
 Then set the maximum size for the disk to store file data, and then click “Create” to finish provisioning the VM.
  
