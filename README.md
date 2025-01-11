@@ -50,8 +50,8 @@ Then set the maximum size for the disk to store file data, and then click “Cre
 <img src="VB8.webp">
  
 VirtualBox will bring you back to the main screen where you can see your newly created VM.
-Ubuntu
-Download Ubuntu
+<h1>Ubuntu</h1>
+<h2>Download Ubuntu</h2>
 In order to install an OS to a VM you will need to install the OS just like you would on a regular computer. You’ll need to download a copy of the installation.
 
 
