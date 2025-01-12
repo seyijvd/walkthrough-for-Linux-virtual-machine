@@ -59,13 +59,22 @@ In order to install an OS to a VM you will need to install the OS just like you 
  
 <h2>Installing the OS</h2>
 Now you should have everything ready to install Ubuntu. From the VirtualBox Manager screen, double click the VM you created on the left and a prompt will appear asking to select the start-up disk. Use the dropdown menu to select the Ubuntu image that you downloaded in the previous step and click “Start” to boot the VM.
- 
+
+
+<img src="VB10.webp"> 
 VirtualBox will open a new window where you can see the display for your VM! From this point on, all these instructions take place in the VirtualBox window loading Ubuntu.
 The VM will boot to a welcome screen where you can select “Install Ubuntu” to start the installation process. Follow the prompt to select your Keyboard Language. A normal installation will include a number of apps and software whereas a minimal installation will only include basic utilities and you can install your own as you go. We’ll use the normal installation for this tutorial. You can check “Download updates” to update software packages as part of the installation process.
- 
+
+
+<img src="VB11.webp">
 In the next screen, select “Erase disk and install Ubuntu”. Don’t worry! This takes place inside your VM and won’t affect your primary disk. Click “Install now” to continue. Ubuntu will prompt you to select your location and create a username and password. Afterwards, the installation will begin.
- 
+
+
+<img src="VB12.webp">
 The installation can take a bit of time depending on your installation type and your internet speed:
+
+
+<img src="VB13.webp.">
  
 When the installation finishes, restart the VM in order to use it:
  
