@@ -77,6 +77,9 @@ The installation can take a bit of time depending on your installation type and 
 <img src="VB13.webp.">
  
 When the installation finishes, restart the VM in order to use it:
+
+
+<ing src="VB14.webp">
  
 After restarting the VM you can log into your account and use your Ubuntu machine! Since our Ubuntu installation is completely contained within a VM, it’s practically impossible to screw up your host computer.
  
