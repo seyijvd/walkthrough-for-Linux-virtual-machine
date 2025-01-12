@@ -79,10 +79,10 @@ The installation can take a bit of time depending on your installation type and 
 When the installation finishes, restart the VM in order to use it:
 
 
-<ing src="VB14.webp">
+<img src="VB14.webp">
  
 After restarting the VM you can log into your account and use your Ubuntu machine! Since our Ubuntu installation is completely contained within a VM, it’s practically impossible to screw up your host computer.
- 
-Conclusion
+<img src="VB15.webp">
+<h2>Conclusion</h2>
 Now you can feel free to play around, try out the programs, new commands, install random software, and explore without fear of breaking anything. The only thing you can accidentally impact is the VM but it can simply be deleted and reinstalled again!
 
